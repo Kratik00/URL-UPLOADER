@@ -19,7 +19,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "LP_YAGAMI")
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
              # Ask Doubt on telegram @KingVJ01
 
-DB_NAME = os.environ.get("DB_NAME", "lucifer")     
+DB_NAME = os.environ.get("DB_NAME", "Cluster0")     
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://lucifer:QGPQCl6ZFf6wHiZ7@cluster0.zmcca.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
  
